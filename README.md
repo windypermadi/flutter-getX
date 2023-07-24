@@ -1,6 +1,6 @@
 # flutter_getx
 
-A new Flutter project.
+Tutorial for Flutter GetX
 
 ## Getting Started
 
