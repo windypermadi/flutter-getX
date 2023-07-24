@@ -1,0 +1,22 @@
+{
+  "status": 200,
+  "message": null,
+  "data": {
+    "iduser_akses": "01",
+    "nama": "Admin Super",
+    "alamat": null,
+    "no_telp": null,
+    "username": "superpower",
+    "jenis_user": "LOGIN",
+    "idjabatan": "SUPER",
+    "tanggal_input": "2023-07-08 12:00:59",
+    "cek_diskon": "0",
+    "cek_del_transaksi": "0",
+    "cek_edit_master": "1",
+    "cek_harga_beli_penjualan": "0",
+    "nomer_absen": null,
+    "token_login": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTAyNjM4ODIsImRhdGEiOnsiaWQiOiIwMSIsInVzZXJuYW1lIjoic3VwZXJwb3dlciJ9fQ.HJQ8fmm6FfkUvTROWBBaS1NBvkLNVVC2FQrfveRwbEk",
+    "exp_token_login": "2023-07-25 11:14:42"
+  },
+  "error": null
+}
